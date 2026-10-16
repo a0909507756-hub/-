@@ -58,8 +58,7 @@
   * **Specific Examples:**
     1. **Li-Fraumeni Syndrome / Human Cancers (TP53 mutation):** A single missense mutation in TP53 (such as **R248Q**, **R273H**, **R280K**, or **R175H**) prevents TP53 from binding to target DNA to arrest the cell cycle or trigger apoptosis, leading to uncontrolled cell division and cancer.
     2. **Sickle Cell Anemia (鐮刀型紅血球貧血症):** A single point mutation in hemoglobin $\beta$-globin (**Glu6Val / E6V**) replaces a hydrophilic glutamic acid with a hydrophobic valine, causing hemoglobin molecules to stick together into rigid fibers that deform red blood cells into a sickle shape.
-  
-  ![Skating Activity](image/image1.jpg)
+
 
 ---
 
