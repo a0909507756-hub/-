@@ -72,6 +72,4 @@
     * **Option 2 (Structural Mutant — Located somewhere else in the protein):**  
       **Arg175 (e.g., R175H)**, **Tyr220 (e.g., Y220C)**, or **Gly245 (e.g., G245S)**. Based on its 3D position in `3KMD`, this residue is located **somewhere else in the protein (within the internal structural core / $\beta$-sandwich / zinc-binding region, away from the direct DNA-contact surface)**. Mutating it destabilizes and unfolds the 3D structure of the TP53 DNA-binding domain, indirectly preventing DNA binding.  
       *（中文選擇二［結構型突變］：**Arg175、Tyr220 或 Gly245**。從 3KMD 的 3D 結構來看，該胺基酸**位於蛋白質內部結構區［而非直接接觸 DNA 的介面］**，突變後會破壞 TP53 結構域的穩定性並導致蛋白質構型瓦解，間接使其喪失結合 DNA 的能力。）*
-  * **a.** Paste a screenshot of your ChimeraX visualization here:
-    ![ChimeraX Visualization](image/TP53_mutation_3KMD.png)
-  * **b.** Save your ChimeraX session file as `StudentID.cxs`.
+<img width="544" height="358" alt="image" src="https://github.com/user-attachments/assets/a124713b-753f-406c-b9bc-ad3ee9b9ac65" />
